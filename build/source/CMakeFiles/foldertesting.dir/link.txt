@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11    CMakeFiles/foldertesting.dir/foldertesting.cpp.o  -o ../foldertesting -rdynamic 
